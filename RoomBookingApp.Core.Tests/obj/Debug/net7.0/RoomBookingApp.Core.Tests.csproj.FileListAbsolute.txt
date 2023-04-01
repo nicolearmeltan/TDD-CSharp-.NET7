@@ -146,3 +146,8 @@ C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Deb
 C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
 C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\RoomBookingApp.Core.dll
 C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\RoomBookingApp.Core.pdb
+C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\Moq.dll
+C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\nico_\source\repos\TDD\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
